@@ -20,8 +20,7 @@ from alchemyapi import AlchemyAPI
 import json
 
 
-#demo_text = 'Yesterday dumb Bob destroyed my fancy iPhone in beautiful Denver, Colorado. I guess I will have to head over to the Apple Store and buy a new one.'
-demo_text = 'the reception staff when we arrived was extremely rude. We found blood and dry wine on our bed sheets and it took them 1 hour to bring new sheets (that we had a to change ourselves) and did not offer any compensation outside of drinks. Durng the weekend you can hearthe sounds of the nightclub that is next door.'
+demo_text = 'Yesterday dumb Bob destroyed my fancy iPhone in beautiful Denver, Colorado. I guess I will have to head over to the Apple Store and buy a new one.'
 demo_url = 'http://www.npr.org/2013/11/26/247336038/dont-stuff-the-turkey-and-other-tips-from-americas-test-kitchen'
 demo_html = '<html><head><title>Python Demo | AlchemyAPI</title></head><body><h1>Did you know that AlchemyAPI works on HTML?</h1><p>Well, you do now.</p></body></html>'
 image_url = 'http://demo1.alchemyapi.com/images/vision/football.jpg'
